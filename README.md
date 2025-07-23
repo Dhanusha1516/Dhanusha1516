@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanusha</h1>
 <h3 align="center">A passionate Full stack developer from India | Web developer & UI/UX developer | HTML, CSS, PHP, JavaScript, Python, React</h3>
 <div align="center">
-  <img height="1000" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 </div>
 - 🔭 I’m currently working on **Puzzle play**
 
